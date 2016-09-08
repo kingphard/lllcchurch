@@ -51,7 +51,7 @@
                         <a href="#">Events/Association</a>
                     </li>
                     <li>
-                        <a href="#">Events/Association</a>
+                        <a href="#">Where to Begin</a>
                     </li>
                     <li>
                         <a href="#">Contact</a>
